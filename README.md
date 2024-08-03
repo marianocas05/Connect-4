@@ -1,4 +1,4 @@
-## Connect 4 AI Project
+# Connect 4 AI Project
 ### Overview
 This project focuses on developing an artificial intelligence (AI) to play Connect 4 using three different methods: Monte Carlo Tree Search (MCTS), A*, and Minimax. The implementation of these methods was done without relying on external libraries, ensuring a deep understanding of each algorithm and its application to the game.
 
